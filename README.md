@@ -1,4 +1,8 @@
 # tmux-config
+Install Tmux
+```bash
+brew install tmux
+```
 
 copy `.tmux.config` in your home dir (`~`)
 ```bash
@@ -16,9 +20,14 @@ tmux source ~/.tmux.conf
 and you should be good to go!
 
 ## Oh My Posh
+Install Oh My Posh
+```bash
+brew install oh-my-posh
+```
+
 copy config
 ```bash
-curl -s https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/json.omp.json > .my-posh.omp.json
+curl -s https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/json.omp.json > ~/.my-posh.omp.json
 ```
 
 then add to `~/.bashrc`
