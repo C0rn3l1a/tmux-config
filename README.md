@@ -17,6 +17,8 @@ git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 tmux source ~/.tmux.conf
 ```
 
+Then press [Ctrl] + [b] + [I] to install all plugins
+
 and you should be good to go!
 
 ## Oh My Posh
